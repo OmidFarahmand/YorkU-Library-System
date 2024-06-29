@@ -1,0 +1,601 @@
+ID,email,password,Type
+6313478,sth@gmail.com,123,Student
+2601178,secondClient@York.com,pass1234,Faculty
+3157471,ThirdClient@York.com,Pass,Student
+2228272,ForthNonFaculty@York.com,Pass,Nonfaculty
+5109188,Visitor1@York.com,Pass,Visitor
+9864309,Visitor2@York.com,Pass,Visitor
+9207666,Visitor3@York.com,Pass,Visitor
+2300972,testStudent@gmail.com,123,Student
+7560659,sdgfhasjdfh@sdhfbjfd.com,Qwer!234,Student
+7472778,faculty@gmail.com,Qwer!234,Faculty Member
+4589482,something@gmail.com,Qwer!234,Faculty Member
+7395771,somwthing@gmail.com,Qwer!234,Faculty Member
+8197464,test@gmail.com,Qwer!234,Faculty Member
+2173194,uIa82XnBjRvl9vjN4hXxLW0Qp@gmail.com,Qwer!234,student
+2215957,UOFNGj1NFR8S4JnubQIUi3dMv@gmail.com,Qwer!234,student
+9074965,lAwGK3eYeP61jZpLHIYQMroym@gmail.com,Qwer!234,student
+3315959,u83lbqLPlxsmGhe59w209tjC5@gmail.com,Qwer!234,student
+5484054,EkcwVD4zxzfkaQ0XhdisDgMyO@gmail.com,Qwer!234,student
+4718294,pYcSvY0lhnxBdhyElbZml308j@gmail.com,Qwer!234,student
+5917596,jbDUoJ4dfn1Rmpj9AC7aZtrN2@gmail.com,Qwer!234,student
+6577410,ebffedikouZ7xSQ64mVC8SUb8@gmail.com,Qwer!234,student
+4602341,pRwMPJdbhRvwTzJcGNJRBokx8@gmail.com,Qwer!234,student
+8555666,xG5rUeS0gahNoVrIUTeToPTdc@gmail.com,Qwer!234,student
+9607427,thMORXXn0x1mbzDNIRWQu6X4t@gmail.com,Qwer!234,student
+5336182,MxNrB2CsJKbeWqVEt8OhExiRc@gmail.com,Qwer!234,student
+1111111,fYyqA7yecoKZxf1i6BO25OGOy@gmail.com,Qwer!234,student
+5312174,KRzadTXYlWlFxEgBsaLkn122c@gmail.com,Qwer!234,student
+8950889,s1YB4gTEvAchIe1ighEAXIq8H@gmail.com,Qwer!234,student
+5663633,iLDi3jwYixNEfr68JfJhVrc8k@gmail.com,Qwer!234,student
+4747494,FxCMbGeM2hg68LzwwgFXOxdh0@gmail.com,Qwer!234,student
+7425823,8cbPTEUn20v5npkEYMjOle68i@gmail.com,Qwer!234,student
+5594611,eCdpx6qkamUdsCAzvMfIly0dP@gmail.com,Qwer!234,student
+2623518,B7Tio2OERQjb61CrKzBPkXtec@gmail.com,Qwer!234,student
+2887049,NktZBmLmWwcxAUyz9iYHZ1rlU@gmail.com,Qwer!234,student
+8090818,8orjy59NLOZUyhi9xjuhAMqT2@gmail.com,Qwer!234,student
+9417867,qEx8Y8s34Q3mFgV5CsbvKLNMD@gmail.com,Qwer!234,student
+7901088,8I5kyuzTjsOq5gEisUj3iwsTX@gmail.com,Qwer!234,student
+7605796,KGJ8Te5ncPT62VByr266xk4QN@gmail.com,Qwer!234,student
+9042484,,hi!,model.LoginFailedException: hi!
+9670971,,hi!,model.LoginFailedException: hi!
+9750356,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+7507820,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+9555771,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+1058540,src/CD.csv,src/Newsletter.csv,
+5973984,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+8890999,src/CD.csv,src/Newsletter.csv,
+9834657,src/CD.csv,src/Newsletter.csv,
+9628883,src/Book.csv,src/Book.csv,src/Magazine.csv
+3691079,src/Client.csv,src/CD.csv,src/Book.csv
+7245811,,src/CD.csv,src/Book.csv
+1985421,hi!,hi!,
+7483189,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+4229929,src/CD.csv,model.RentingNotAllowedException: ,hi!
+4942160,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+2050080,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+6706437,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+2091343,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+2517494,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+5841206,src/Magazine.csv,,
+8270900,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+9833280,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+6384715,src/Magazine.csv,src/Book.csv,model.RegistrationFailedException: src/CD.csv
+6130919,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+6071521,src/Magazine.csv,,
+3264731,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+1273744,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+2007002,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+8683461,src/CD.csv,src/Newsletter.csv,
+1249991,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+1971225,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+2800462,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+7800952,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+6758647,src/Magazine.csv,,
+4907529,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+8605117,src/CD.csv,src/Newsletter.csv,
+9733928,src/Book.csv,src/Book.csv,src/Magazine.csv
+4452402,src/Client.csv,src/CD.csv,src/Book.csv
+2095185,,src/CD.csv,src/Book.csv
+8155972,hi!,hi!,
+9152653,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+8048523,src/CD.csv,model.RentingNotAllowedException: ,hi!
+5537505,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+4241656,src/CD.csv,src/Newsletter.csv,
+1288521,src/Book.csv,src/Book.csv,src/Magazine.csv
+9056806,src/Client.csv,src/CD.csv,src/Book.csv
+7349296,,src/CD.csv,src/Book.csv
+3238717,hi!,hi!,
+8524128,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+9867015,src/CD.csv,model.RentingNotAllowedException: ,hi!
+5822533,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+2175737,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+4838507,src/CD.csv,src/Newsletter.csv,
+5305009,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+3809303,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+2482317,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+9118570,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+1965912,src/Magazine.csv,,
+7387102,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+3847421,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+3363542,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+9267676,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+4833457,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+1633533,src/Magazine.csv,,
+8134280,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+7567626,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+9829890,src/Magazine.csv,src/Book.csv,model.RegistrationFailedException: src/CD.csv
+8188483,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+4702444,src/Magazine.csv,,
+4894093,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+5783107,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+8132160,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+4570160,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+9061370,src/CD.csv,src/Newsletter.csv,
+1390479,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+1294277,src/CD.csv,src/Newsletter.csv,
+3339069,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+9396612,src/CD.csv,src/Newsletter.csv,
+7489338,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+3099712,src/CD.csv,src/Newsletter.csv,
+4416440,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+5646029,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+9629994,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+6894457,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+7083147,src/Magazine.csv,,
+5314567,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+3731491,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+8643917,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+8846623,src/Magazine.csv,,
+9789972,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+7305238,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+4597026,src/CD.csv,src/Newsletter.csv,
+7881565,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+8828495,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+7330561,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+6984651,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+9186163,src/Magazine.csv,,
+3223863,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+9118491,src/CD.csv,src/Newsletter.csv,
+5086360,src/Book.csv,src/Book.csv,src/Magazine.csv
+2285458,src/Client.csv,src/CD.csv,src/Book.csv
+4036429,,src/CD.csv,src/Book.csv
+1224624,hi!,hi!,
+1916883,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+9419617,src/CD.csv,model.RentingNotAllowedException: ,hi!
+8906012,src/CD.csv,src/Newsletter.csv,
+9803567,src/Book.csv,src/Book.csv,src/Magazine.csv
+2388223,src/Client.csv,src/CD.csv,src/Book.csv
+6688670,,src/CD.csv,src/Book.csv
+6923100,hi!,hi!,
+6978721,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+7456292,src/CD.csv,model.RentingNotAllowedException: ,hi!
+5656460,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+3803381,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+1756181,src/CD.csv,src/Newsletter.csv,
+6176628,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+3726259,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+4059627,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+5874420,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+8141251,src/Magazine.csv,,
+6955276,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+8314663,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+1579147,src/Magazine.csv,,
+9775885,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+6563501,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+7969233,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+7759764,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+2425076,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+8371647,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+3826073,src/Magazine.csv,,
+2016092,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+6959462,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+2700824,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+5367057,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+2596520,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+3796873,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+9385700,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+4960674,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+1101859,src/Magazine.csv,,
+9062326,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+9216708,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+4964809,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+3564621,src/Magazine.csv,,
+9435435,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+4390043,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+2905649,src/CD.csv,src/Newsletter.csv,
+1380380,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+6983482,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+3563371,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+6304468,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+6427543,src/Magazine.csv,,
+3042422,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+9267021,src/CD.csv,src/Newsletter.csv,
+2908500,src/Book.csv,src/Book.csv,src/Magazine.csv
+8724173,src/Client.csv,src/CD.csv,src/Book.csv
+7976772,,src/CD.csv,src/Book.csv
+5532950,hi!,hi!,
+3555983,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+2123823,src/CD.csv,model.RentingNotAllowedException: ,hi!
+6688294,src/CD.csv,src/Newsletter.csv,
+4998262,src/Book.csv,src/Book.csv,src/Magazine.csv
+7782098,src/Client.csv,src/CD.csv,src/Book.csv
+6460496,,src/CD.csv,src/Book.csv
+1487744,hi!,hi!,
+2392766,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+1174579,src/CD.csv,model.RentingNotAllowedException: ,hi!
+3579780,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+5869925,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+5830277,src/CD.csv,src/Newsletter.csv,
+9452532,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+8493732,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+6379937,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+4321956,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+6715777,src/Magazine.csv,,
+5698286,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+6596080,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+2866087,src/Magazine.csv,,
+4341217,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+3024618,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+8060266,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+9333755,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+5893002,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+3776468,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+3002762,src/Magazine.csv,,
+2634585,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+6735991,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+5667841,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+5395886,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+4307512,8naHBeAWJllU4se9kbwM38MDj@gmail.com,Qwer!234,student
+8525359,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+1452627,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+6001494,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+1339607,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+9811167,src/Magazine.csv,,
+8528129,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+6929655,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+2622832,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+6745432,src/Magazine.csv,,
+8741242,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+2300608,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+9219280,src/CD.csv,src/Newsletter.csv,
+1063579,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+2195602,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+4985735,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+6348691,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+7160877,src/Magazine.csv,,
+3525115,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+4465595,src/CD.csv,src/Newsletter.csv,
+2693458,src/Book.csv,src/Book.csv,src/Magazine.csv
+2477189,src/Client.csv,src/CD.csv,src/Book.csv
+2448508,,src/CD.csv,src/Book.csv
+9573772,hi!,hi!,
+2159398,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+5545811,src/CD.csv,model.RentingNotAllowedException: ,hi!
+6341473,src/CD.csv,src/Newsletter.csv,
+3242266,src/Book.csv,src/Book.csv,src/Magazine.csv
+5238940,src/Client.csv,src/CD.csv,src/Book.csv
+4089284,,src/CD.csv,src/Book.csv
+4524418,hi!,hi!,
+8981343,model.LoginFailedException: src/BorrowedItems.csv,,src/VirtualBook.csv
+7202024,src/CD.csv,model.RentingNotAllowedException: ,hi!
+1159277,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+9258390,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+8430191,src/CD.csv,src/Newsletter.csv,
+1452532,src/Newsletter.csv,src/Client.csv,src/Magazine.csv
+9060283,src/Newsletter.csv,src/BorrowedItems.csv,model.LoginFailedException: src/BorrowedItems.csv
+4483297,model.RegistrationFailedException: ,model.LoginFailedException: model.RentingNotAllowedException: ,src/VirtualBook.csv
+7460524,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+5923741,src/Magazine.csv,,
+1139691,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+8752011,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+9395725,src/Magazine.csv,,
+7264068,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+2413957,src/Book.csv,model.LoginFailedException: src/BorrowedItems.csv,src/Magazine.csv
+9811934,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RentingNotAllowedException: ,model.LoginFailedException: src/BorrowedItems.csv
+6543369,model.RegistrationFailedException: src/Client.csv,model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: hi!
+7900013,model.LoginFailedException: model.RentingNotAllowedException: src/Newsletter.csv,hi!,src/Newsletter.csv
+9184392,model.RentingNotAllowedException: src/Newsletter.csv,model.RegistrationFailedException: ,src/VirtualBook.csv
+8826434,src/Magazine.csv,,
+7343605,model.RentingNotAllowedException: src/Newsletter.csv,src/Newsletter.csv,src/BorrowedItems.csv
+3671397,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv,model.RegistrationFailedException: src/CD.csv,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+2275436,model.LoginFailedException: src/Magazine.csv,,model.LoginFailedException: src/Magazine.csv
+5244664,,model.LoginFailedException: src/Magazine.csv,src/BorrowedItems.csv
+7785175,rM4wyUiMcUV7VQyh70yuLjxv1@gmail.com,Qwer!234,student
+1365758,JfJsky7mpiDxIgD8M4YWc2tRn@gmail.com,Qwer!234,student
+7029132,uxBNYrWjTBOVmHVH0f8R7gXH0@gmail.com,Qwer!234,student
+5775027,pdYNn5f8zE0WziaN5hkjuamms@gmail.com,Qwer!234,student
+3581006,dcAathsEbQqVwU5UfTsjTHJBr@gmail.com,Qwer!234,student
+2010416,TLSh9WxBn2tkbB0OOOisaUJbQ@gmail.com,Qwer!234,student
+5451215,v8j01gAhOa5f17yyf8cbQzyV2@gmail.com,Qwer!234,student
+5069749,gNAEXr3vzcdATthWm5Gg6qVd8@gmail.com,Qwer!234,student
+4542235,n1TQGeqlTTHSlBNshAkcIeaSi@gmail.com,Qwer!234,student
+4850719,3tNC4mmUhqcFCiRIud8bsqNgv@gmail.com,Qwer!234,student
+3133015,JZ6vO2jd7xbc3nELC9g8sRMoC@gmail.com,Qwer!234,student
+7794066,jxJdL8sxXQZtPFFdwWPIyhdeZ@gmail.com,Qwer!234,student
+9790035,Fm23glB9n0FUEfz1MfnGzxohA@gmail.com,Qwer!234,student
+4458859,RadmqlxmNyvQX7ogbVXKVTTaq@gmail.com,Qwer!234,student
+5568835,SFexHDhktUYxOlZNN5YIAwhrJ@gmail.com,Qwer!234,student
+1952855,XKmkpNbbuw2XCkYCPFy65nPt6@gmail.com,Qwer!234,student
+3501651,fzxKeNe1xBDiyqApYqKibAAr5@gmail.com,Qwer!234,student
+9625197,VJh3dBCGEqDenkuE8L2RLmvTl@gmail.com,Qwer!234,student
+1176451,n0trgeZ88N4ibLHhqak8nr5yO@gmail.com,Qwer!234,student
+8458869,DMuHUoOb4YzzhHzttLrhbGsTr@gmail.com,Qwer!234,student
+3800320,a3ZALl0rexooCo4UWb9ZGdvwM@gmail.com,Qwer!234,student
+9243930,3iy6lZFGLGDhBgwwGRq9AsygR@gmail.com,Qwer!234,student
+4940190,VZCkLXotLmSWJVMfXHwR64J2R@gmail.com,Qwer!234,student
+2683331,WQsHAvOZcZp3PAm6274QqyWHP@gmail.com,Qwer!234,student
+7368024,aVTEfiDUqv89jid2he2N3nJh7@gmail.com,Qwer!234,student
+5731725,SS0VFtHP9mVEhGNohYOpHVqkn@gmail.com,Qwer!234,student
+9694698,KUPYRnTQLqvXSCYa6lF8OY7YU@gmail.com,Qwer!234,student
+5293783,aM3jos5xPfgAS2PsEbQS21cHm@gmail.com,Qwer!234,student
+3553817,Py0C6xV3oUnNxFgJeQlHbyhGq@gmail.com,Qwer!234,student
+7465922,hgIvlVeXoMeLZXUooHCxrf84q@gmail.com,Qwer!234,student
+3315157,oUCq56yYymMSBckax1OzIoqQW@gmail.com,Qwer!234,student
+1803591,8fjybnMcr1CuUM0mFrFrkx3WA@gmail.com,Qwer!234,student
+7998607,oLrKYYHTzIKA76AVZDt23sGk3@gmail.com,Qwer!234,student
+4979649,Qyn6HlZDun0zVB7x83vHQTshU@gmail.com,Qwer!234,student
+5429983,CGswSWxQPQCZR97dnNHmxtK82@gmail.com,Qwer!234,student
+1331467,8kop7QIbE72wW6TFDAHGjYXBQ@gmail.com,Qwer!234,student
+8521081,7wdWldwqIhZlN5HRWgKFwTxXT@gmail.com,Qwer!234,student
+9253199,alreadyregistered@example.com,Password123,User
+3147536,user+123@example.com,StrongPassword1,User
+6396253,XvuJLhHntLMaaJ1e6tO2kWB32@gmail.com,Qwer!234,student
+5036959,PO1inA18DEudEL90ZVnjDcuAs@gmail.com,Qwer!234,student
+4531493,LTVtWkUJT5ZYpxt72qOJNhLvg@gmail.com,Qwer!234,student
+6283770,wLzqZirudxRlzMofwxcGPYTUo@gmail.com,Qwer!234,student
+9742018,wdKiOEiXqt2ydcNoStRubehh6@gmail.com,Qwer!234,student
+9846462,OpVSxEEOu8bAS3iBPwhvuP74p@gmail.com,Qwer!234,student
+5228570,q9ecroE73JxPxafv27Z7ziear@gmail.com,Qwer!234,student
+3758637,wZwv3z3stXbQnDWWnPMomojFm@gmail.com,Qwer!234,student
+9862064,d3fUdEmJRT5IkEhr2R0kchqRU@gmail.com,Qwer!234,student
+7576688,mNrEtbToLVkgE1JjbE7VejbRl@gmail.com,Qwer!234,student
+8094833,L3xwd9LOZQNgzZ6KwzrrvBmqX@gmail.com,Qwer!234,student
+2526911,Ldnkd4yduDFzpMAYhIToTFoeT@gmail.com,Qwer!234,student
+6755959,0B6vlnqcB1VY1qms1z5judAZa@gmail.com,Qwer!234,student
+5755670,oEHJimXfQP0LtptkyqLokA1jT@gmail.com,Qwer!234,student
+2023639,lPCCXmRsGWicN4i6j8nOT51qH@gmail.com,Qwer!234,student
+9118572,ZmWNJahbcK9N4gulgslkDWSce@gmail.com,Qwer!234,student
+1005497,hgNlg0E91uhzrhp8Hv1eWSGPB@gmail.com,Qwer!234,student
+3358176,rNWf8SSaMtAcuCz9k7RLHFyU5@gmail.com,Qwer!234,student
+3491674,3nV6EYoDE867ndJbGKPREfNor@gmail.com,Qwer!234,student
+8987204,n2KbERVA3ClkIUc8EP3ibtXGl@gmail.com,Qwer!234,student
+7862765,py4n6VKbX5MeB6aduNka1flT8@gmail.com,Qwer!234,student
+8841370,fail@client.com,password123,User
+2973594,FJMjffM4HTS8jkqzXnRn2yaLe@gmail.com,Qwer!234,student
+2885782,format@client.com,password123,User
+4574230,new@client.com,password123,User
+7422213,fail@client.com,password123,User
+9404357,xL5rLB4JdIHuGdMbk9vqDIwtd@gmail.com,Qwer!234,student
+6827631,format@client.com,password123,User
+9889464,new@client.com,password123,User
+4987874,fail@client.com,password123,User
+2530408,Ml3QypiLGXykC2RywFiKOUtuH@gmail.com,Qwer!234,student
+1681246,format@client.com,password123,User
+3458432,new@client.com,password123,User
+8899579,fail@client.com,password123,User
+4769564,XDyYJSKVioTXkdZRNWzel7rxJ@gmail.com,Qwer!234,student
+7856012,format@client.com,password123,User
+2191434,new@client.com,password123,User
+4456524,fail@client.com,password123,User
+4903142,1VT2ggGlr37aTQwIJf9VLmB62@gmail.com,Qwer!234,student
+8703843,format@client.com,password123,User
+3369017,new@client.com,password123,User
+7833206,fail@client.com,password123,User
+8427312,15DgQT9F7rXPAPhrCAZ8Y5oT3@gmail.com,Qwer!234,student
+8363417,format@client.com,password123,User
+3485910,new@client.com,password123,User
+4793655,fail@client.com,password123,User
+8580813,mg6dkKQlKZWgMzZdT9ebkknSk@gmail.com,Qwer!234,student
+2271949,format@client.com,password123,User
+7557455,new@client.com,password123,User
+9486019,fail@client.com,password123,User
+8740650,pLoIsfUU9RRn9c2eEK5LYMXy4@gmail.com,Qwer!234,student
+6833467,format@client.com,password123,User
+5564502,new@client.com,password123,User
+3038552,fail@client.com,password123,User
+3138206,ajeEZtpZPa4Nd9PkOBwEtmZW4@gmail.com,Qwer!234,student
+9884258,format@client.com,password123,User
+1688591,new@client.com,password123,User
+1073806,fail@client.com,password123,User
+2623583,diara0NYQk9GiMFqxMcBcRCz3@gmail.com,Qwer!234,student
+3250788,format@client.com,password123,User
+6972261,new@client.com,password123,User
+9424730,fail@client.com,password123,User
+1564763,KVxvk29xZUTReNeEjt7ybx42G@gmail.com,Qwer!234,student
+7243523,format@client.com,password123,User
+2754242,new@client.com,password123,User
+8132628,fail@client.com,password123,User
+1971250,OsshFrvS7B1toTlR1jGmDGher@gmail.com,Qwer!234,student
+4904732,format@client.com,password123,User
+8710657,new@client.com,password123,User
+6807036,fail@client.com,password123,User
+7363757,EkYaMBHPD8x7NKcnTd5HLcf4r@gmail.com,Qwer!234,student
+2224815,format@client.com,password123,User
+5060257,new@client.com,password123,User
+7657418,fail@client.com,password123,User
+9341050,NaYKLB4mVPilmZ2U7PabVKInu@gmail.com,Qwer!234,student
+7393892,format@client.com,password123,User
+4829792,new@client.com,password123,User
+4081665,fail@client.com,password123,User
+2362930,geTBlS0wQ07tpbhRRQ3OwqGdW@gmail.com,Qwer!234,student
+9424809,format@client.com,password123,User
+8314621,new@client.com,password123,User
+1304659,fail@client.com,password123,User
+6032203,CICQU8blXLgWkXQiybufkGQt7@gmail.com,Qwer!234,student
+5047527,format@client.com,password123,User
+9571182,new@client.com,password123,User
+4767307,fail@client.com,password123,User
+8569661,NG5F8h9TlHOUh2uB85g6TZYvS@gmail.com,Qwer!234,student
+6817571,format@client.com,password123,User
+5625753,new@client.com,password123,User
+4693900,fail@client.com,password123,User
+3759599,MxQKYuyUNuqiTOgUfSDurRiVi@gmail.com,Qwer!234,student
+1349338,format@client.com,password123,User
+8814594,new@client.com,password123,User
+1596421,fail@client.com,password123,User
+1750214,Jii7FYJ9t2OHuHvKDDyHZ5NKr@gmail.com,Qwer!234,student
+9464349,format@client.com,password123,User
+9369048,new@client.com,password123,User
+4674661,fail@client.com,password123,User
+1067462,8CLh0Ave9TwuDnE6qdoS72dtC@gmail.com,Qwer!234,student
+5620261,format@client.com,password123,User
+9890771,new@client.com,password123,User
+5392272,fail@client.com,password123,User
+4378834,6A1tNNGj1ufqWRS5Ls5vLWoh0@gmail.com,Qwer!234,student
+5799025,format@client.com,password123,User
+6195004,new@client.com,password123,User
+4294175,fail@client.com,password123,User
+7934692,pebs6v2GSlALQEkyQVRaA6CYU@gmail.com,Qwer!234,student
+2588009,format@client.com,password123,User
+2904761,new@client.com,password123,User
+2060131,fail@client.com,password123,User
+3456444,kxMtKvTVwi4ou9IkXfZs0iyAN@gmail.com,Qwer!234,student
+7793832,format@client.com,password123,User
+3288264,new@client.com,password123,User
+5653347,fail@client.com,password123,User
+2241789,pjmmvviPGHgURez6FUy2DJ2Zy@gmail.com,Qwer!234,student
+5937384,format@client.com,password123,User
+8662968,new@client.com,password123,User
+3470396,fail@client.com,password123,User
+1882179,USIW4CW9JehuXSLSPtPHn6QlN@gmail.com,Qwer!234,student
+3413956,format@client.com,password123,User
+7463891,new@client.com,password123,User
+6369711,fail@client.com,password123,User
+1592390,o6KM2auIzPb2YhTNC7zuc022q@gmail.com,Qwer!234,student
+8185953,format@client.com,password123,User
+5591810,new@client.com,password123,User
+1397941,fail@client.com,password123,User
+9478873,psIk9P5SBnKcxO5zRy5N3yt6h@gmail.com,Qwer!234,student
+4508855,format@client.com,password123,User
+9329375,new@client.com,password123,User
+7457961,fail@client.com,password123,User
+4931399,AD9EcmT4CZo2apselXv4Yg3dd@gmail.com,Qwer!234,student
+9330600,format@client.com,password123,User
+6948099,new@client.com,password123,User
+3253526,fail@client.com,password123,User
+3914199,jsnC58ZdLn9oKn3XXYT8Uwakl@gmail.com,Qwer!234,student
+1838184,format@client.com,password123,User
+6806969,new@client.com,password123,User
+2144164,fail@client.com,password123,User
+6620009,C79LNx1G44pECvPH5hiX6m3vJ@gmail.com,Qwer!234,student
+7885354,format@client.com,password123,User
+1420031,new@client.com,password123,User
+5160432,fail@client.com,password123,User
+8800550,8OibHd2b39OopHRnMfuQjaPAZ@gmail.com,Qwer!234,student
+4217313,format@client.com,password123,User
+9498307,new@client.com,password123,User
+6959432,fail@client.com,password123,User
+6293685,qqQQLMnLL8mnWWI7lfaz3Pmov@gmail.com,Qwer!234,student
+4985139,format@client.com,password123,User
+6176037,new@client.com,password123,User
+3988323,fail@client.com,password123,User
+7666521,6DqwTaYc5RynASHxqiNYYfgSj@gmail.com,Qwer!234,student
+1383253,format@client.com,password123,User
+8486888,new@client.com,password123,User
+3201707,fail@client.com,password123,User
+7260956,9yoqUvGMOr0Bbj5ZNZlWjefCQ@gmail.com,Qwer!234,student
+9186829,format@client.com,password123,User
+7482103,new@client.com,password123,User
+4441102,fail@client.com,password123,User
+7621560,vlVnjZDFQAsdrkCjM1AdAcJXz@gmail.com,Qwer!234,student
+6902130,format@client.com,password123,User
+8474383,new@client.com,password123,User
+1042208,fail@client.com,password123,User
+2271621,gycAjUqlDnU2EwPtwBuUuihHy@gmail.com,Qwer!234,student
+9247430,format@client.com,password123,User
+6799497,new@client.com,password123,User
+9646818,fail@client.com,password123,User
+5601554,eRcnYQO70vSAhisgk1zWWx0BL@gmail.com,Qwer!234,student
+5835264,format@client.com,password123,User
+2403915,new@client.com,password123,User
+5181574,fail@client.com,password123,User
+2192705,bhbfMbLEAEDYpN4cNKvpvfCC7@gmail.com,Qwer!234,student
+8926430,format@client.com,password123,User
+2808775,new@client.com,password123,User
+4375960,fail@client.com,password123,User
+2303025,dI4FVgf8RX9XWKuvGOIxuzEb9@gmail.com,Qwer!234,student
+6128400,format@client.com,password123,User
+5466262,new@client.com,password123,User
+7310956,fail@client.com,password123,User
+2184266,ii8S3cdu6v2whDs9JQHKFbDuj@gmail.com,Qwer!234,student
+4277662,format@client.com,password123,User
+5971048,new@client.com,password123,User
+7334597,fail@client.com,password123,User
+8213942,PQmpvcQpN2Xx9qVHZOgGaNBtX@gmail.com,Qwer!234,student
+6994346,format@client.com,password123,User
+2635937,new@client.com,password123,User
+8221983,fail@client.com,password123,User
+7576046,n3hCD4au8yGQINkYITg5FXjGe@gmail.com,Qwer!234,student
+6776525,format@client.com,password123,User
+1156397,new@client.com,password123,User
+1087733,fail@client.com,password123,User
+1925572,GMiBOKmddWXIdWKwP7dfqoTLw@gmail.com,Qwer!234,student
+4906543,format@client.com,password123,User
+9670399,new@client.com,password123,User
+2241598,fail@client.com,password123,User
+4712469,JE0KO3IR3LqSqFaCvqvTN9yhi@gmail.com,Qwer!234,student
+3152188,format@client.com,password123,User
+2366185,new@client.com,password123,User
+1330022,fail@client.com,password123,User
+4359279,IZ9q40t9xjmM5OUMIgP8qxexO@gmail.com,Qwer!234,student
+2951554,format@client.com,password123,User
+1119952,new@client.com,password123,User
+5973708,fail@client.com,password123,User
+5178720,Wjnx2ALRrbYm9PDN6h3ZRIWbj@gmail.com,Qwer!234,student
+7761015,format@client.com,password123,User
+3001165,new@client.com,password123,User
+9642301,fail@client.com,password123,User
+9229848,Hpet9uXtZ3cP8oNzxBA71J6bx@gmail.com,Qwer!234,student
+2328449,format@client.com,password123,User
+9470531,new@client.com,password123,User
+2808026,fail@client.com,password123,User
+5963231,9e9bh2C60RJRJjMZhMtY4QdaH@gmail.com,Qwer!234,student
+8836324,format@client.com,password123,User
+7145092,new@client.com,password123,User
+8501232,fail@client.com,password123,User
+3172537,im95ZmDUx8A1JhmnPkJxGdSla@gmail.com,Qwer!234,student
+1860511,format@client.com,password123,User
+5117964,new@client.com,password123,User
+4421208,fail@client.com,password123,User
+7963315,HYCTGpGqD9m4ZjRwSKQoSEiZG@gmail.com,Qwer!234,student
+3241758,format@client.com,password123,User
+6144298,new@client.com,password123,User
+3516014,fail@client.com,password123,User
+3368407,Q6Cfh9xU8HxvWjVLB1WwnmLxh@gmail.com,Qwer!234,student
+9638099,format@client.com,password123,User
+6101899,new@client.com,password123,User
+5071824,fail@client.com,password123,User
+6095172,ufkqEzF5PynlpIzy7n3MIIcSk@gmail.com,Qwer!234,student
+9695190,format@client.com,password123,User
+2919392,new@client.com,password123,User
+3898539,fail@client.com,password123,User
+6880827,amo3IJ0NcymjSXdWHjlgK7X7U@gmail.com,Qwer!234,student
+4617772,format@client.com,password123,User
+9145638,new@client.com,password123,User
+3658436,src/Magazine.csv,,src/VirtualBook.csv
+8398678,hi!,src/BorrowedItems.csv,src/Book.csv
+6203378,src/Newsletter.csv,src/BorrowedItems.csv,
+3798890,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+4002931,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+1622319,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+5111190,src/Client.csv,src/VirtualBook.csv,
+7839698,src/Newsletter.csv,src/Client.csv,src/CD.csv
+7480081,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+4032938,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+3461256,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+1352405,,,
+2446391,hi!,src/CD.csv,model.LoginFailedException: hi!
+5471387,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+9589344,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+2225935,,,model.RegistrationFailedException: src/Book.csv
+3482500,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+9824989,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+5578914,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+6999859,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+7608501,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+3398910,src/Magazine.csv,,src/VirtualBook.csv
+9423153,hi!,src/BorrowedItems.csv,src/Book.csv
+8793098,src/Newsletter.csv,src/BorrowedItems.csv,
+4790351,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+9404393,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+7967754,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+5712753,src/Client.csv,src/VirtualBook.csv,
+7483871,src/Newsletter.csv,src/Client.csv,src/CD.csv
+3167910,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+7092366,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+3973103,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+3245610,,,
+1350599,hi!,src/CD.csv,model.LoginFailedException: hi!
+8165096,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+3605256,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+5795104,,,model.RegistrationFailedException: src/Book.csv
+5169719,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+9701834,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+9507361,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+1243608,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+2979035,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+1821163,,model.RegistrationFailedException: ,model.RegistrationFailedException: 
+5947579,hi!,hi!,src/Book.csv
+3989545,src/VirtualBook.csv,,hi!
+5559775,model.RegistrationFailedException: src/Magazine.csv,model.RentingNotAllowedException: hi!,hi!

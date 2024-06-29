@@ -1,0 +1,11 @@
+ID,Title,Location,CanBePurchased,copiesAvailable,Publisher,Author,Date,ISBN,isBookLost,Edition
+12456,The Lord of the Rings,Second Floor,TRUE,20,York,JRR Tolkien,1954,111222333,No,1
+12458,The Chronicles of the Rings,Third Floor,TRUE,20,York,Miller,1954,111222335,No,1
+12459,The Lords of the Ring,Forth Floor,TRUE,20,York,JRR Tolkien,1954,111222336,No,1
+12460,The Sovereign of the Rings,Third Floor,TRUE,20,York,Rodriguez,1954,111222337,No,1
+12461,Lord of Rings,Forth Floor,TRUE,20,York,Garcia,1954,111222338,No,1
+12462,The Tale Journey Voyage,Third Floor,TRUE,20,York,JRR Tolkien,1954,111222339,No,1
+12463,The Saga Journey Mystery,Second Floor,TRUE,20,York,William ,1954,111222340,No,1
+12464,The Legacy Voyage Journey,Forth Floor,TRUE,20,York,Johnson,1954,111222341,No,1
+12465,The Tale Journey Legacy,Third Floor,TRUE,20,York,JRR Tolkien,1954,111222342,No,1
+12466,The Legacy Voyage Mystery,First Floor,TRUE,20,York,Rodriguez,1954,111222343,No,1

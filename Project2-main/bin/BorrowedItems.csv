@@ -1,0 +1,2710 @@
+Type,Title,Email,DateBorrow
+Vbook,Hobbit,sth@gmail.com,2023-03-17
+Pnews,Times,sth@gmail.com,2024-03-17
+Pnews,Times,Visitor1@York.com,2024-03-18
+Book,The Chronicles of the Rings,Visitor1@York.com,2023-03-19
+Book,The Lords of the Ring,Visitor1@York.com,2023-03-20
+Book,The Sovereign of the Rings,Visitor1@York.com,2023-03-21
+Vbook,Hobbit,Visitor1@York.com,2024-03-19
+CD,GTA,Visitor1@York.com,2024-03-18
+Pnews,Times,Visitor1@York.com,2024-03-19
+Vbook,Hobbit,sth@gmail.com,2024-03-19
+Unews,WSJ,Visitor1@York.com,2024-03-19
+Pnews,Times,Visitor1@York.com,2024-03-19
+Book,The Sovereign of the Rings,something@gmail.com,2024-03-20
+Vbook,Hobbit,something@gmail.com,2024-03-22
+Pnews,Times,sth@gmail.com,2024-03-22
+Pnews,Times,sth@gmail.com,2024-03-22
+Magazine,The Economist,sth@gmail.com,2024-04-01
+Magazine,The Economist,Visitor1@York.com,2024-04-01
+CD,GTA,sth@gmail.com,2024-04-01
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Magazine,,null,model.LoginFailedException: hi!
+Book,hi!,null,src/BorrowedItems.csv
+Unews,src/Magazine.csv,null,src/Newsletter.csv
+Book,src/Newsletter.csv,null,src/CD.csv
+Pnews,null,null,src/VirtualBook.csv
+Pnews,null,null,src/VirtualBook.csv
+Pnews,null,null,src/VirtualBook.csv
+Pnews,null,null,src/CD.csv
+Book,src/Newsletter.csv,null,src/CD.csv
+Book,hi!,null,src/BorrowedItems.csv
+Unews,src/Magazine.csv,null,src/Newsletter.csv
+Book,src/Newsletter.csv,null,src/CD.csv
+Pnews,null,null,src/VirtualBook.csv
+Pnews,null,null,src/VirtualBook.csv
+Pnews,null,null,src/VirtualBook.csv
+Pnews,null,null,src/CD.csv
+Book,src/Newsletter.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,,null,src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Vbook,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,model.RentingNotAllowedException: 
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Pnews,null,null,
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,
+Book,src/Book.csv,null,src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,src/Newsletter.csv,null,
+Book,src/CD.csv,null,src/Client.csv
+Magazine,,null,
+Vbook,,null,src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,src/Book.csv,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Magazine,,null,
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,hi!,null,src/Book.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Book,hi!,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,model.LoginFailedException: src/Magazine.csv,null,src/CD.csv
+Pnews,null,null,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Book,hi!,null,model.LoginFailedException: model.RentingNotAllowedException: 
+Book,,null,model.LoginFailedException: model.RegistrationFailedException: src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Pnews,null,null,src/VirtualBook.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Client.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+CD,src/Newsletter.csv,,src/CD.csv
+Pnews,null,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Book,,null,model.LoginFailedException: src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,,null,src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,,null,src/VirtualBook.csv
+Vbook,hi!,null,src/Newsletter.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,,null,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Newsletter.csv
+Book,,null,src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,null,src/Book.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Book.csv,null,src/Newsletter.csv
+Book,src/Book.csv,hi!,src/BorrowedItems.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,hi!,null,src/Book.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Vbook,,null,src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Vbook,hi!,null,src/VirtualBook.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Magazine,,null,model.RentingNotAllowedException: src/Newsletter.csv
+Vbook,hi!,,model.LoginFailedException: src/Magazine.csv
+Book,src/Magazine.csv,null,src/CD.csv
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Test Book,null,2024-04-06
+Book,Book 0,null,2024-04-06
+Book,Book 1,null,2024-04-06
+Book,Book 2,null,2024-04-06
+Book,Book 3,null,2024-04-06
+Book,Book 4,null,2024-04-06
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07
+Book,New Book,Visitor1@York.com,2023-01-01
+Book,The Lord of the Rings,sth@gmail.com,2024-04-07
+Vbook,Virtual Title,Visitor2@York.com,2023-02-01
+Book,Test Book,null,2024-04-07
+Unews,WSJ,sth@gmail.com,2024-03-31
+Book,Test Book,null,2024-04-07
+Book,Book 0,null,2024-04-07
+Book,Book 1,null,2024-04-07
+Book,Book 2,null,2024-04-07
+Book,Book 3,null,2024-04-07
+Book,Book 4,null,2024-04-07

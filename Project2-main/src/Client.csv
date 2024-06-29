@@ -1,0 +1,224 @@
+ID,email,password,Type
+6313478,sth@gmail.com,123,Student
+2601178,secondClient@York.com,pass1234,Faculty
+3157471,ThirdClient@York.com,Pass,Student
+2228272,ForthNonFaculty@York.com,Pass,Nonfaculty
+5109188,Visitor1@York.com,Pass,Visitor
+9864309,Visitor2@York.com,Pass,Visitor
+9207666,Visitor3@York.com,Pass,Visitor
+2300972,testStudent@gmail.com,123,Student
+7560659,sdgfhasjdfh@sdhfbjfd.com,Qwer!234,Student
+7472778,faculty@gmail.com,Qwer!234,Faculty Member
+4589482,something@gmail.com,Qwer!234,Faculty Member
+7395771,somwthing@gmail.com,Qwer!234,Faculty Member
+8197464,test@gmail.com,Qwer!234,Faculty Member
+2173194,uIa82XnBjRvl9vjN4hXxLW0Qp@gmail.com,Qwer!234,student
+2215957,UOFNGj1NFR8S4JnubQIUi3dMv@gmail.com,Qwer!234,student
+9074965,lAwGK3eYeP61jZpLHIYQMroym@gmail.com,Qwer!234,student
+3315959,u83lbqLPlxsmGhe59w209tjC5@gmail.com,Qwer!234,student
+5484054,EkcwVD4zxzfkaQ0XhdisDgMyO@gmail.com,Qwer!234,student
+4718294,pYcSvY0lhnxBdhyElbZml308j@gmail.com,Qwer!234,student
+5917596,jbDUoJ4dfn1Rmpj9AC7aZtrN2@gmail.com,Qwer!234,student
+6577410,ebffedikouZ7xSQ64mVC8SUb8@gmail.com,Qwer!234,student
+4602341,pRwMPJdbhRvwTzJcGNJRBokx8@gmail.com,Qwer!234,student
+8555666,xG5rUeS0gahNoVrIUTeToPTdc@gmail.com,Qwer!234,student
+9607427,thMORXXn0x1mbzDNIRWQu6X4t@gmail.com,Qwer!234,student
+5336182,MxNrB2CsJKbeWqVEt8OhExiRc@gmail.com,Qwer!234,student
+1111111,fYyqA7yecoKZxf1i6BO25OGOy@gmail.com,Qwer!234,student
+5312174,KRzadTXYlWlFxEgBsaLkn122c@gmail.com,Qwer!234,student
+8950889,s1YB4gTEvAchIe1ighEAXIq8H@gmail.com,Qwer!234,student
+5663633,iLDi3jwYixNEfr68JfJhVrc8k@gmail.com,Qwer!234,student
+4747494,FxCMbGeM2hg68LzwwgFXOxdh0@gmail.com,Qwer!234,student
+7425823,8cbPTEUn20v5npkEYMjOle68i@gmail.com,Qwer!234,student
+5594611,eCdpx6qkamUdsCAzvMfIly0dP@gmail.com,Qwer!234,student
+2623518,B7Tio2OERQjb61CrKzBPkXtec@gmail.com,Qwer!234,student
+2887049,NktZBmLmWwcxAUyz9iYHZ1rlU@gmail.com,Qwer!234,student
+8090818,8orjy59NLOZUyhi9xjuhAMqT2@gmail.com,Qwer!234,student
+6807336,fail@client.com,password123,User
+2797590,9BxTW2jqynUboMBGJUXoiTSzj@gmail.com,Qwer!234,student
+3443556,format@client.com,password123,User
+2462474,new@client.com,password123,User
+7890977,src/Magazine.csv,,src/VirtualBook.csv
+5047497,hi!,src/BorrowedItems.csv,src/Book.csv
+7636624,src/Newsletter.csv,src/BorrowedItems.csv,
+4002903,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+7946153,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+1027969,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+3376621,src/Client.csv,src/VirtualBook.csv,
+8037566,src/Newsletter.csv,src/Client.csv,src/CD.csv
+1092673,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+5575412,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+5480593,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+1469344,,,
+1923446,hi!,src/CD.csv,model.LoginFailedException: hi!
+1048970,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+8958443,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+2682559,,,model.RegistrationFailedException: src/Book.csv
+3804243,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+5862277,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+4177195,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+7796838,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+7259143,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+6078966,src/Magazine.csv,,src/VirtualBook.csv
+5150305,hi!,src/BorrowedItems.csv,src/Book.csv
+3620455,src/Newsletter.csv,src/BorrowedItems.csv,
+5880187,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+6824788,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+8184448,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+1896191,src/Client.csv,src/VirtualBook.csv,
+8483039,src/Newsletter.csv,src/Client.csv,src/CD.csv
+1439143,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+9835812,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+6162863,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+8550765,,,
+8950530,hi!,src/CD.csv,model.LoginFailedException: hi!
+4031675,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+5056040,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+4988801,,,model.RegistrationFailedException: src/Book.csv
+4614466,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+7715369,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+6105141,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+1040500,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+5241481,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+9849318,,model.RegistrationFailedException: ,model.RegistrationFailedException: 
+6255407,hi!,hi!,src/Book.csv
+6414874,src/VirtualBook.csv,,hi!
+1371536,model.RegistrationFailedException: src/Magazine.csv,model.RentingNotAllowedException: hi!,hi!
+6593684,src/Magazine.csv,,src/VirtualBook.csv
+4065710,hi!,src/BorrowedItems.csv,src/Book.csv
+9609878,src/Newsletter.csv,src/BorrowedItems.csv,
+1996798,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+9761717,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+3387056,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+9829298,src/Client.csv,src/VirtualBook.csv,
+1222698,src/Newsletter.csv,src/Client.csv,src/CD.csv
+8265899,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+3342179,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+8256059,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+9524949,,,
+3530898,hi!,src/CD.csv,model.LoginFailedException: hi!
+2660495,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+3566583,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+8401329,,,model.RegistrationFailedException: src/Book.csv
+5211616,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+9452829,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+8615910,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+4063441,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+9100501,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+1043543,src/Magazine.csv,,src/VirtualBook.csv
+7226235,hi!,src/BorrowedItems.csv,src/Book.csv
+7452119,src/Newsletter.csv,src/BorrowedItems.csv,
+9568502,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+7052034,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+7201026,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+6077637,src/Client.csv,src/VirtualBook.csv,
+5148490,src/Newsletter.csv,src/Client.csv,src/CD.csv
+6249734,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+4122838,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+2466608,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+5715819,,,
+5262968,hi!,src/CD.csv,model.LoginFailedException: hi!
+9081037,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+3366998,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+6571064,,,model.RegistrationFailedException: src/Book.csv
+4174674,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+8178400,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+6735183,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+6593050,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+1009397,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+4688594,,model.RegistrationFailedException: ,model.RegistrationFailedException: 
+8394858,hi!,hi!,src/Book.csv
+8629306,src/VirtualBook.csv,,hi!
+1169926,model.RegistrationFailedException: src/Magazine.csv,model.RentingNotAllowedException: hi!,hi!
+5431411,src/Magazine.csv,,src/VirtualBook.csv
+7083502,hi!,src/BorrowedItems.csv,src/Book.csv
+5895900,src/Newsletter.csv,src/BorrowedItems.csv,
+1027510,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+9129569,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+7642863,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+3957138,src/Client.csv,src/VirtualBook.csv,
+8723295,src/Newsletter.csv,src/Client.csv,src/CD.csv
+1044460,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+9716277,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+4328943,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+4819284,,,
+9678098,hi!,src/CD.csv,model.LoginFailedException: hi!
+9504959,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+1229221,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+2976281,,,model.RegistrationFailedException: src/Book.csv
+2129120,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+5891624,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+1600618,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+1727866,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+2727532,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+4498208,src/Magazine.csv,,src/VirtualBook.csv
+8138322,hi!,src/BorrowedItems.csv,src/Book.csv
+3088575,src/Newsletter.csv,src/BorrowedItems.csv,
+8053832,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+2677640,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+9337871,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+4070663,src/Client.csv,src/VirtualBook.csv,
+4412535,src/Newsletter.csv,src/Client.csv,src/CD.csv
+1224927,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+7379090,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+3690786,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+5728745,,,
+9354156,hi!,src/CD.csv,model.LoginFailedException: hi!
+3538240,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+9644305,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+2511427,,,model.RegistrationFailedException: src/Book.csv
+4448414,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+9477691,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+2446242,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+4756513,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+7217323,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+1903585,,model.RegistrationFailedException: ,model.RegistrationFailedException: 
+2102388,hi!,hi!,src/Book.csv
+7827721,src/VirtualBook.csv,,hi!
+8676304,model.RegistrationFailedException: src/Magazine.csv,model.RentingNotAllowedException: hi!,hi!
+1508514,src/Magazine.csv,,src/VirtualBook.csv
+7264400,hi!,src/BorrowedItems.csv,src/Book.csv
+3618280,src/Newsletter.csv,src/BorrowedItems.csv,
+9835203,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+4790867,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+4279489,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+4275773,src/Client.csv,src/VirtualBook.csv,
+4535092,src/Newsletter.csv,src/Client.csv,src/CD.csv
+5554399,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+3991238,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+5256225,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+9753270,,,
+9725437,hi!,src/CD.csv,model.LoginFailedException: hi!
+9360145,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+7151943,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+2541545,,,model.RegistrationFailedException: src/Book.csv
+7463579,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+1142300,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+8661604,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+3992440,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+8611895,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+9454681,src/Magazine.csv,,src/VirtualBook.csv
+6565348,hi!,src/BorrowedItems.csv,src/Book.csv
+3739152,src/Newsletter.csv,src/BorrowedItems.csv,
+1420397,hi!,src/Newsletter.csv,src/BorrowedItems.csv
+3593515,model.RegistrationFailedException: src/Book.csv,src/VirtualBook.csv,model.RegistrationFailedException: src/Book.csv
+7085389,model.RentingNotAllowedException: ,model.RegistrationFailedException: src/Book.csv,src/CD.csv
+6829106,src/Client.csv,src/VirtualBook.csv,
+5095560,src/Newsletter.csv,src/Client.csv,src/CD.csv
+7985263,src/Newsletter.csv,model.RentingNotAllowedException: hi!,model.RentingNotAllowedException: hi!
+4291582,src/Magazine.csv,src/Magazine.csv,src/CD.csv
+9408381,model.RegistrationFailedException: src/Magazine.csv,src/Newsletter.csv,model.RegistrationFailedException: src/Magazine.csv
+4352211,,,
+4650987,hi!,src/CD.csv,model.LoginFailedException: hi!
+8257251,src/Magazine.csv,src/CD.csv,model.RentingNotAllowedException: hi!
+7085959,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Magazine.csv,
+8948478,,,model.RegistrationFailedException: src/Book.csv
+5861063,model.RegistrationFailedException: ,src/BorrowedItems.csv,model.RegistrationFailedException: 
+7817781,model.RegistrationFailedException: model.RentingNotAllowedException: hi!,model.RegistrationFailedException: src/Book.csv,
+2612373,src/CD.csv,src/VirtualBook.csv,src/Newsletter.csv
+6845352,model.LoginFailedException: hi!,src/Newsletter.csv,model.RegistrationFailedException: model.RentingNotAllowedException: hi!
+9687595,src/CD.csv,,model.RegistrationFailedException: src/Book.csv
+3004332,,model.RegistrationFailedException: ,model.RegistrationFailedException: 
+6961578,hi!,hi!,src/Book.csv
+1610885,src/VirtualBook.csv,,hi!
+3413539,model.RegistrationFailedException: src/Magazine.csv,model.RentingNotAllowedException: hi!,hi!
